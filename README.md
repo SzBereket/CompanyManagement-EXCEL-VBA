@@ -8,5 +8,6 @@ Features in the project content;
 - When a new Product is added to the list, the record and photo of this product is kept.
 - New personnel record, Personnel Information, Personnel Properties and Personnel Photo records are kept, which can only be used by the Administrator.
 - Most of the entered data is kept in the access database.
-
+- Small features and more
+ 
 Creator By Sabri Bereket
