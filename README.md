@@ -19,3 +19,5 @@ Creator By SzBereket
 ![Screenshot_4](https://user-images.githubusercontent.com/80854069/155364506-f351f5aa-148c-47c8-b13c-4b45b7b07fa7.png)
 ![Screenshot_5](https://user-images.githubusercontent.com/80854069/155364510-9b23534b-2fee-473e-a44c-846ca3faf507.png)
 ![Screenshot_7](https://user-images.githubusercontent.com/80854069/155364511-04de50e3-8e66-44da-a5ba-420ce486dbac.png)
+![Screenshot_6](https://user-images.githubusercontent.com/80854069/155365342-670a5a90-596f-409b-9acf-2227d3a87d53.png)
+![Screenshot_8](https://user-images.githubusercontent.com/80854069/155365346-088ca933-1fd8-40bd-884c-2a7f55278115.png)
