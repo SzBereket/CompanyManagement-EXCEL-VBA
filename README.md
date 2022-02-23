@@ -9,5 +9,13 @@ Features in the project content;
 - New personnel record, Personnel Information, Personnel Properties and Personnel Photo records are kept, which can only be used by the Administrator.
 - Most of the entered data is kept in the access database.
 - Small features and more
+
+Note: If you want to see my codes, in the login section username: "a" password: "a"
  
-Creator By Sabri Bereket
+Creator By SzBereket
+![Screenshot_1](https://user-images.githubusercontent.com/80854069/155364513-33471473-1541-4b2b-ba09-aefa7a63d0e0.png)
+![Screenshot_2](https://user-images.githubusercontent.com/80854069/155364499-3bb1ddc4-08d7-4462-a629-4d3e2a9fe3f5.png)
+![Screenshot_3](https://user-images.githubusercontent.com/80854069/155364504-557f02fa-db30-4f7d-83d9-0a42f47006d5.png)
+![Screenshot_4](https://user-images.githubusercontent.com/80854069/155364506-f351f5aa-148c-47c8-b13c-4b45b7b07fa7.png)
+![Screenshot_5](https://user-images.githubusercontent.com/80854069/155364510-9b23534b-2fee-473e-a44c-846ca3faf507.png)
+![Screenshot_7](https://user-images.githubusercontent.com/80854069/155364511-04de50e3-8e66-44da-a5ba-420ce486dbac.png)
