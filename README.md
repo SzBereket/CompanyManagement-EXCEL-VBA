@@ -13,7 +13,7 @@ Features in the project content;
 Note: If you want to see my codes, in the login section username: "a" password: "a"
  
  
-Creator By SzBereket
+* Creator By SzBereket
 --------------
 ![Screenshot_1](https://user-images.githubusercontent.com/80854069/155364513-33471473-1541-4b2b-ba09-aefa7a63d0e0.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/80854069/155364499-3bb1ddc4-08d7-4462-a629-4d3e2a9fe3f5.png)
